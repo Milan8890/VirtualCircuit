@@ -1,0 +1,8 @@
+inputs/5-11.txt
+calc
+10011
+print
+calc
+01011
+print
+exit
